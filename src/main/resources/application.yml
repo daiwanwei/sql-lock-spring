@@ -1,0 +1,15 @@
+
+spring:
+  datasource:
+    host: 127.0.0.1
+    port: 6379
+
+    database: 1
+    url: jdbc:postgresql://localhost:5432/test?schema=public
+    username: alien
+#    password:
+  jpa:
+    database: postgresql
+    hibernate:
+      ddl-auto: none
+      initialization-mode: always
