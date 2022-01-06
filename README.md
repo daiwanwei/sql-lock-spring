@@ -5,8 +5,8 @@
  * [執行專案](#執行專案)
 
 ## 專案描述
-實作optimistic locking
-實作pessimistic locking
+* 實作optimistic locking
+* 實作pessimistic locking
 
 ## 執行專案
 
